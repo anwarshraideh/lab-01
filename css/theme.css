@@ -1,0 +1,48 @@
+
+    @media (min-width: 768px) and (max-width: 960px)
+    
+    {
+        .a
+        {
+         background-color: rgba(105, 103, 103, 0.877);   
+        }
+        .b
+        {
+            background-color: rgba(105, 103, 103, 0.877);   
+        }
+        .c
+        {
+            background-color:  rgba(105, 103, 103, 0.877);   
+        }
+        .d
+        {
+            background-color:  rgba(105, 103, 103, 0.877);    
+        }
+        .e
+        {
+            background-color:  rgba(105, 103, 103, 0.877);  
+        }
+        .f
+        {
+            background-color:  rgba(105, 103, 103, 0.877); 
+        }
+        .g
+        {
+            background-color:  rgba(105, 103, 103, 0.877);   
+        }
+        .h
+        {
+            background-color:  rgba(105, 103, 103, 0.877);  
+        }
+        .i
+        {
+            background-color:  rgba(105, 103, 103, 0.877);   
+        }
+    
+        }
+
+        .a ,.b ,.c,.d,.e,.f,.g,.h , .i
+        {
+        border-color:black;
+        border: 1px solid;
+        }
