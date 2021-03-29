@@ -1,48 +1,105 @@
 
-    @media (min-width: 768px) and (max-width: 960px)
-    
+@media screen and (max-width: 768px){
+
+    .a
     {
+        background-color: rgb(56, 56, 185);
+        border-bottom: none;
+    }
+    .b
+    {
+        
+        background-color:rgb(143, 143, 212);
+        border-bottom: none;
+    }
+    .c
+    {
+        background-color: rgb(15, 13, 99);  
+        border-bottom: none;
+    }
+    .d
+    {
+        background-color: rgb(15, 13, 99);   
+        border-bottom: none;
+    }
+    .e
+    {
+        background-color: rgb(86, 97, 243);  
+        border-bottom: none;
+    }
+    .f
+    {
+        background-color: rgb(86, 97, 243); 
+        border-left: none;  
+        border-bottom: none;
+    }
+    .g
+    {
+        background-color: rgb(86, 97, 243); 
+        border-bottom: none;  
+    }
+    .h
+    {
+        background-color:rgb(86, 97, 243); 
+        border-left: none;   
+        border-bottom: none;
+    }
+    .i
+    {
+        background-color: rgb(56, 56, 185);;    
+    }
+    
+    }
+    
+    @media screen and (min-width: 769px){
+        
         .a
         {
-         background-color: rgba(105, 103, 103, 0.877);   
+            background-color: rgb(56, 56, 185);  
+            border-bottom: none;
         }
         .b
         {
-            background-color: rgba(105, 103, 103, 0.877);   
+            background-color:rgb(143, 143, 212) ;  
+            border-right: none;
+            border-bottom: none;
         }
         .c
         {
-            background-color:  rgba(105, 103, 103, 0.877);   
+            background-color: rgb(15, 13, 99);
+            border-right: none;   
         }
         .d
         {
-            background-color:  rgba(105, 103, 103, 0.877);    
+            background-color: rgb(15, 13, 99);    
+            border-bottom: none;
         }
         .e
         {
-            background-color:  rgba(105, 103, 103, 0.877);  
+            background-color:rgb(86, 97, 243);    
+            border-right: none; 
+            border-bottom: none;
         }
         .f
         {
-            background-color:  rgba(105, 103, 103, 0.877); 
+            background-color:rgb(86, 97, 243); 
+            border-right: none;   
+            border-bottom: none;
         }
         .g
         {
-            background-color:  rgba(105, 103, 103, 0.877);   
+            background-color:rgb(86, 97, 243); 
+            border-right: none;     
+            border-bottom: none;
         }
         .h
         {
-            background-color:  rgba(105, 103, 103, 0.877);  
+            background-color:rgb(86, 97, 243); 
+            border-bottom: none;    
         }
         .i
         {
-            background-color:  rgba(105, 103, 103, 0.877);   
+            background-color: rgb(56, 56, 185);;   
         }
     
-        }
-
-        .a ,.b ,.c,.d,.e,.f,.g,.h , .i
-        {
-        border-color:black;
-        border: 1px solid;
         }
