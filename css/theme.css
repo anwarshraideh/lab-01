@@ -19,7 +19,7 @@
     }
     .d
     {
-        background-color: rgb(15, 13, 99);   
+        background-color: rgb(46, 45, 104);   
         border-bottom: none;
     }
     .e
@@ -29,13 +29,13 @@
     }
     .f
     {
-        background-color: rgb(86, 97, 243); 
+        background-color: rgb(21, 23, 51); 
         border-left: none;  
         border-bottom: none;
     }
     .g
     {
-        background-color: rgb(86, 97, 243); 
+        background-color: rgb(58, 62, 116); 
         border-bottom: none;  
     }
     .h
@@ -46,7 +46,7 @@
     }
     .i
     {
-        background-color: rgb(56, 56, 185);;    
+        background-color: rgb(9, 9, 150);;    
     }
     
     }
@@ -55,51 +55,53 @@
         
         .a
         {
-            background-color: rgb(56, 56, 185);  
+            background-color: rgb(196, 114, 37);  
             border-bottom: none;
         }
         .b
         {
-            background-color:rgb(143, 143, 212) ;  
+            background-color:rgb(243, 184, 136) ;  
             border-right: none;
             border-bottom: none;
         }
         .c
         {
-            background-color: rgb(15, 13, 99);
+            background-color: rgb(192, 125, 62);
             border-right: none;   
         }
         .d
         {
-            background-color: rgb(15, 13, 99);    
+            background-color: rgb(116, 138, 99);    
             border-bottom: none;
         }
         .e
         {
-            background-color:rgb(86, 97, 243);    
+            background-color:rgb(14, 155, 45);    
             border-right: none; 
             border-bottom: none;
         }
         .f
         {
-            background-color:rgb(86, 97, 243); 
+            background-color:rgb(187, 106, 13); 
             border-right: none;   
             border-bottom: none;
         }
         .g
         {
-            background-color:rgb(86, 97, 243); 
+            background-color:rgb(63, 83, 63); 
             border-right: none;     
             border-bottom: none;
         }
         .h
         {
-            background-color:rgb(86, 97, 243); 
+            background-color:rgb(236, 96, 15); 
             border-bottom: none;    
         }
         .i
         {
-            background-color: rgb(56, 56, 185);;   
+            background-color: rgb(39, 59, 35);;   
         }
     
         }
+
+        
