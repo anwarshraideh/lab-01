@@ -1,19 +1,16 @@
-main div p{
-  position: relative;
-  text-align: center;
-  top: 50%;
-  font-size: large;
-  font-weight: 600;
+ div p{
+  
+  font-size: x-large;
+  font-weight: 500;
     
 }
-main div {
-position: relative;
-    
-}
-div{
+
+div
+{
     border:1px solid rgb(175, 161, 161);
-    float: left;
+    
 }
-.a ,.c,.d,.e,.f,.g,.h{
+.a ,.c,.d,.e,.f,.g,.h
+{
     border-bottom: none;
-}
+} 
